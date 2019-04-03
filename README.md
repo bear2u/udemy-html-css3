@@ -101,6 +101,11 @@ h2:after {
 - CSS를 이용해서 zoom-in 애니메이션 구현
 - <img> 를 이용해서 어둡게 만드는 방법
 
+### How it Works 공부내용
+- CSS와 함께 Circle를 그리는 방법
+- Sections 들을 분리하는 방법
+- App Store버튼과 구글 스토어 버튼을 연결하는 방법
+
 ## 반응형 웹을 위한 조언
 
 1. Fluid grid
