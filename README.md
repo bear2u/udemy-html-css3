@@ -82,6 +82,18 @@ transition: background-color 0.2s, border 0.2s, color 0.2s;
 - `fluid grid`를 사용하는 방법
 - icons를 이용하는 방법
 
+## after를 통해 넣는 방법
+
+```
+h2:after {
+    display: block;
+    height: 2px;
+    background-color: #e67e22;
+    content: " ";
+    width: 100px;    
+}
+```
+
 ## 반응형 웹을 위한 조언
 
 1. Fluid grid
