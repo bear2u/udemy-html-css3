@@ -112,6 +112,10 @@ h2:after {
 2. Flexiable Images
 3. Media queries
 
+## 궁금점
+1. 47번에서 섹션 나누기는 이해가 아직 안됨
+2. 
+
 ## 참고 사이트
 1. normalize
 2. responsegrid
