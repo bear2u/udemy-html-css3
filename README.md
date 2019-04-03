@@ -2,6 +2,7 @@
 - brackets (css 라이브가 편한듯)
 
 # 유데미 기본 CSS 프로젝트 클론
+[강좌](https://www.udemy.com/design-and-develop-a-killer-website-with-html5-and-css3)
 
 # 기본설정
 `box-sizing: border-box`
@@ -76,12 +77,6 @@ background-image: linear-gradient(rgba(0, 0, 0, 0.7), #000),url(img/hero.jpg);
 transition: background-color 0.2s, border 0.2s, color 0.2s;
 ```
 
-## 기능 섹션에서 배우는 내용
-
-- `:after` 클래스를 이용해서 직접 css에 내용을 입력하는 방법에 대해서 공부
-- `fluid grid`를 사용하는 방법
-- icons를 이용하는 방법
-
 ## after를 통해 넣는 방법
 
 ```
@@ -93,6 +88,18 @@ h2:after {
     width: 100px;    
 }
 ```
+## 공부내용
+
+### 기능 섹션에서 배우는 내용
+
+- `:after` 클래스를 이용해서 직접 css에 내용을 입력하는 방법에 대해서 공부
+- `fluid grid`를 사용하는 방법
+- icons를 이용하는 방법
+
+### food section 공부내용
+- 아름다운 이미지 그리드 시스템 레이아웃 개발
+- CSS를 이용해서 zoom-in 애니메이션 구현
+- <img> 를 이용해서 어둡게 만드는 방법
 
 ## 반응형 웹을 위한 조언
 
