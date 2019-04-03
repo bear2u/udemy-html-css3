@@ -76,6 +76,11 @@ background-image: linear-gradient(rgba(0, 0, 0, 0.7), #000),url(img/hero.jpg);
 transition: background-color 0.2s, border 0.2s, color 0.2s;
 ```
 
+## 기능 섹션에서 배우는 내용
+
+- `:after` 클래스를 이용해서 직접 css에 내용을 입력하는 방법에 대해서 공부
+- `fluid grid`를 사용하는 방법
+- icons를 이용하는 방법
 
 ## 반응형 웹을 위한 조언
 
@@ -88,3 +93,4 @@ transition: background-color 0.2s, border 0.2s, color 0.2s;
 2. responsegrid
 3. flatcolor
 4. 0to255 (반투명정도조절)
+5. https://ionicons.com/
