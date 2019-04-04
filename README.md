@@ -113,6 +113,9 @@ h2:after {
 
 ### 리뷰 섹션 공부내용
 - 배경 이미지 효과를 만들자
+    - `fixed`를 통해 스크롤되는 이미지 효과를 줄 수 있다.
+
+
 
 ## 반응형 웹을 위한 조언
 
@@ -130,3 +133,4 @@ h2:after {
 3. flatcolor
 4. 0to255 (반투명정도조절)
 5. https://ionicons.com/
+6. CSS-TRICKS > Glyphs (특수문자표)
