@@ -115,7 +115,9 @@ h2:after {
 - 배경 이미지 효과를 만들자
     - `fixed`를 통해 스크롤되는 이미지 효과를 줄 수 있다.
 
-
+### Pricing 섹션 공부내용
+- Border radius
+- Box Shadows with CSS
 
 ## 반응형 웹을 위한 조언
 
