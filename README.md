@@ -119,11 +119,23 @@ h2:after {
 - Border radius
 - Box Shadows with CSS
 
+### 입력 폼 섹션 공부내용
+- form, label, input, select등 태그 활용
+- 스타일 적용
+
 ## 반응형 웹을 위한 조언
 
 1. Fluid grid
 2. Flexiable Images
 3. Media queries
+
+
+### input에서 focus border 없애기
+```
+*:focus {
+    outline: none;
+}
+```
 
 ## 궁금점
 1. 47번에서 섹션 나누기는 이해가 아직 안됨
