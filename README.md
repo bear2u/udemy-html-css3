@@ -123,6 +123,10 @@ h2:after {
 - form, label, input, select등 태그 활용
 - 스타일 적용
 
+### footer 작성
+- 효과적인 footer 작성방법
+- social icon을 사용하는 방법
+
 ## 반응형 웹을 위한 조언
 
 1. Fluid grid
@@ -148,3 +152,4 @@ h2:after {
 4. 0to255 (반투명정도조절)
 5. https://ionicons.com/
 6. CSS-TRICKS > Glyphs (특수문자표)
+7. https://www.designpieces.com/2012/12/social-media-colours-hex-and-rgb/ (소셜 아이콘 색상표)
