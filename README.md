@@ -127,6 +127,9 @@ h2:after {
 - 효과적인 footer 작성방법
 - social icon을 사용하는 방법
 
+### 반응형 웹 디자인
+![responsive image](20190404_171357.png)
+
 ## 반응형 웹을 위한 조언
 
 1. Fluid grid
@@ -141,9 +144,24 @@ h2:after {
 }
 ```
 
+## CSS 브라우저 prefixes
+- Android : -webkit-
+- Chrome: -webkit-
+- Firefox: -moz-
+- IE : -ms-
+- IOS: -webkit-
+- Opera: -o-
+- safari: -webkit-
+
 ## 궁금점
 1. 47번에서 섹션 나누기는 이해가 아직 안됨
 2. 
+
+## Brackets Plugin
+1. Beautify
+2. Autosave
+3. Emmet
+4. autoprefixer
 
 ## 참고 사이트
 1. normalize
@@ -153,3 +171,5 @@ h2:after {
 5. https://ionicons.com/
 6. CSS-TRICKS > Glyphs (특수문자표)
 7. https://www.designpieces.com/2012/12/social-media-colours-hex-and-rgb/ (소셜 아이콘 색상표)
+8. jsdelivr.com (javascript cdn)
+9. caniuse.com (브라우저별 css3 지원 여부)
