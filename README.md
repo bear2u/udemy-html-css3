@@ -173,3 +173,4 @@ h2:after {
 7. https://www.designpieces.com/2012/12/social-media-colours-hex-and-rgb/ (소셜 아이콘 색상표)
 8. jsdelivr.com (javascript cdn)
 9. caniuse.com (브라우저별 css3 지원 여부)
+10. http://imakewebthings.com/waypoints/(특정 위치에 갔을때 이벤트 감지)
