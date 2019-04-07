@@ -174,3 +174,4 @@ h2:after {
 8. jsdelivr.com (javascript cdn)
 9. caniuse.com (브라우저별 css3 지원 여부)
 10. http://imakewebthings.com/waypoints/(특정 위치에 갔을때 이벤트 감지)
+11. https://daneden.github.io/animate.css/
